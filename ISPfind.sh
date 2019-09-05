@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#EL1S1uM Was Here
+#felipesi Was Here - 2017
 
 if [ $# != 1 ]; then
         echo "Uso: $0 ips.txt"
